@@ -1,2 +1,2 @@
-# TEstProjects
-These are some test Projects that I run to learn basics.
+# TestProjects
+These are some Test Projects that I run to learn basics.
